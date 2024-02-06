@@ -3,7 +3,7 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=feliperodighero&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=feliperodighero&show_icons=true&theme=dark&include_all_commits=true&count_private=false"
         alt="Github Stats"
       />
     </td>
