@@ -2,7 +2,7 @@
 
 **`AI/Machine Learning Engineer`**
 
-Me chamo Felipe Rodighero, tenho 20 anos e sou natural do Rio Grande do Sul. Sou engenheiro de AI/Machine Learning com mais de 2 anos de experiência desenvolvendo soluções baseadas em Deep Learning, Visão Computacional e Ciência de Dados. Atuo também como desenvolvedor back-end, integrando modelos de IA a sistemas web por meio de APIs REST e GraphQL, sempre com foco em performance, escalabilidade e impacto real.
+Me chamo Felipe Rodighero sou engenheiro de AI/Machine Learning com mais de 2 anos de experiência desenvolvendo soluções baseadas em Deep Learning, Visão Computacional e Ciência de Dados. Atuo também como desenvolvedor back-end, integrando modelos de IA a sistemas web por meio de APIs REST e GraphQL, sempre com foco em performance, escalabilidade e impacto real.
 
 ---
 
